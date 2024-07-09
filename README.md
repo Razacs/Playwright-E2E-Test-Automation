@@ -48,6 +48,10 @@ for running test  run (yarn test)
 
 ![image](https://github.com/Razacs/LimeHomeSolution/assets/32739941/42c7ef8e-08b6-4dea-b370-1c4cb5de79db)
 
+
+Shoping Test Scenario.pdf---> has all test scenarios detail including positive and negative
+Test Plan & Test Strategy.pdf--> has all the approach of the solution
+
 Verification Flow Information
 ------------------------------------------------------------------
 This specific test suite, Property Details and Units Verification, focuses on verifying the correctness and completeness of property details fetched from the backend. It covers the following aspects:
