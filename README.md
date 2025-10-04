@@ -1,4 +1,3 @@
-**limehome Solution**
 -----------------------------
 
 This repository have solutions of of Frontend and Backend automation using Playwright. Below have all details regarding Solutions and execution flow.
